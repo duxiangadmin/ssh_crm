@@ -1,0 +1,7 @@
+使用ssh框架
+搭建hibernate一对多，多对多关系
+开启nosession问题
+取消表之间的关系
+删除客户，对应联系人删除
+抽取basedao，继承basedao，所有类都可以使用增删改差分页基本功能
+使用hibernate模板查询，使用普通sql查询，使用离线对象查询
